@@ -89,4 +89,4 @@ bash run.sh
 
 ## License
 
-MIT © Dream
+MIT © chin4d0ll
