@@ -60,7 +60,7 @@ It uses GPT-4 to classify log files, Bright Data to cross-match IOCs, and provid
 ## Quick Start
 
 ```bash
-git clone https://github.com/yourhandle/ai-threat-agent.git
+git clone https://github.com/chin4d0ll/ai-threat-agent.git
 cd ai-threat-agent
 cp .env.example .env
 bash run.sh
